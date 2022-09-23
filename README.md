@@ -1,2 +1,2 @@
-# basicprogramming-C#---OOP-
+# Basic Programming With C Sharp (Object Oriented Programming). 
 This is a basic programming code for startups (C Sharp Programmer). Into the code architecture (Object Oriented Programming) you can learn about namespace, class, data &amp; method. Somewhere I have used (static/non-static) private void method [Main()], (static/non-static) public void method [Main()], (static/non-static) public void method [Main()], (static/non-static) public void method [Main()], (static/non-static) void Method [Main(string) args] | I hope, you can learn about namespace, class, method. All the best for beginners &amp; best wishes for your programming career. 
